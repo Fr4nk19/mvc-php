@@ -1,2 +1,2 @@
-# mvc-php
-MVC php aplication
+# mvc php
+MVC php aplication with MySQL
